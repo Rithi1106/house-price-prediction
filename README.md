@@ -70,6 +70,11 @@ Prediction Plot (plot.png)
 
 ---
 
+🚀 Learning Journey
+
+This project marks my **first step** into the world of Machine Learning and GitHub projects.  
+It's part of my journey through the **#100DaysOfMLCode** challenge — where I’m building real-world ML projects to learn and grow. 💪💻
+
 > Made by M.S.Rithika
 > Connect with me on https://www.linkedin.com/in/rithikamurugesan369/
 
